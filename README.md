@@ -275,17 +275,6 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 [![Email](https://img.shields.io/badge/Email-Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udieshkumar9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Udiesh)
 
-<br/>
-
-### ⚡ Quick Facts About Me
-
-🌅 Early bird who codes best with morning coffee  
-📚 Always have 3-4 technical books in rotation  
-🎮 Believe debugging is like solving puzzles  
-🌱 Currently exploring advanced system design patterns  
-
-<br/>
-
 *"Thanks for stopping by! Let's turn ideas into impact, one commit at a time."*
 
 </div>
