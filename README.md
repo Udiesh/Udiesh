@@ -16,11 +16,11 @@
 
 ## 🎯 The Short Version
 
-I'm a Computer Science Engineer (CGPA: 8.48) currently working as a **Software Engineer Intern at Doyensys Inc**, where I built a monitoring system that cut manual work by 60% across 200+ enterprise jobs. I build backend systems that scale, integrate AI where it actually helps, and turn messy data into actionable insights.
+I'm a Computer Science Engineer (CGPA: 8.48) who builds backend systems that scale, integrates AI where it actually helps, and turns messy data into actionable insights. Recently wrapped up building a monitoring system at Doyensys Inc that cut manual work by 60% across 200+ enterprise jobs.
 
 **Based in:** Tamil Nadu, India  
-**Currently working on:** Enterprise monitoring systems with ML-powered anomaly detection  
-**Previous win:** National Olympiad Winner (Math & Science) 🥇
+**Focus areas:** Backend development, AI/LLM integration, data analysis  
+**Recent project:** Enterprise monitoring with ML-powered anomaly detection
 
 ---
 
