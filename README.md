@@ -14,12 +14,13 @@
 
 ---
 
-## 🎯 Professional Summary
+## 🎯 My Journey
 
-Computer Science Engineer (CGPA **8.48**) with hands-on experience building **enterprise-grade backend systems**, **AI-powered applications**, and **data-driven platforms**.  
-Strong focus on **backend engineering**, **LLM integration**, and **scalable system design**.
+From winning **National Olympiads in Mathematics & Science** to building **enterprise-grade monitoring systems**, my journey has been about solving real problems with clean, scalable code.
 
-Previously worked as a **Software Engineer Intern at Doyensys Inc**, where I built monitoring and alerting systems that reduced manual operational effort by **60%** across 200+ critical jobs.
+I’m a **Computer Science Engineer (CGPA: 8.48)** with hands-on experience in backend systems, AI integrations, and data-driven platforms.
+
+At **Doyensys Inc**, I built a monitoring and alerting platform that reduced **manual oversight by 60%** across **200+ enterprise jobs**. I enjoy working close to production systems — APIs, schedulers, databases, and ML-assisted automation — where correctness actually matters.
 
 ---
 
@@ -79,19 +80,20 @@ Previously worked as a **Software Engineer Intern at Doyensys Inc**, where I bui
 ### 🏢 Doyensys Inc — Software Engineer Intern  
 **Nov 2025 – Jan 2026**
 
-- Developed an Oracle Fusion Cloud monitoring platform tracking **200+ ESS jobs**, reducing manual monitoring by **60%**
-- Built an intelligent alerting engine using APScheduler with thresholds, cooldown logic, and SMTP notifications
-- Integrated ML-based anomaly detection and runtime prediction using Azure OpenAI on execution and failure logs
-- Designed error aggregation workflows using Oracle Fusion SQL reports and REST APIs
+- Built an Oracle Fusion Cloud monitoring platform tracking **200+ ESS jobs**
+- Reduced manual monitoring effort by **60%**
+- Designed alerting engine with thresholds, cooldown logic, and SMTP notifications
+- Integrated ML-based anomaly detection and runtime prediction using Azure OpenAI
+- Aggregated Oracle Fusion SQL reports and REST API data into actionable alerts
 
 ---
 
 ### 📈 Yofoxy — Data Analysis Intern  
 **Jan 2025 – Jul 2025**
 
-- Analyzed datasets across healthcare studies, surveys, and market purchase data
-- Delivered **15+ refined datasets and analytical summaries**
-- Identified trends and insights across multiple data domains
+- Analyzed healthcare, survey, and market purchase datasets
+- Delivered **15+ structured datasets and analytical summaries**
+- Identified trends and cross-domain insights
 
 ---
 
@@ -103,9 +105,9 @@ Previously worked as a **Software Engineer Intern at Doyensys Inc**, where I bui
 
 FastAPI • React • PostgreSQL • Groq LLM (Llama 3.1)
 
-- Secure JWT authentication and RESTful APIs
 - Natural-language transaction parsing with automated categorization
-- Interactive dashboards for monthly, category-wise, and income–expense trends
+- JWT authentication and RESTful APIs
+- Interactive dashboards for monthly and category-wise analytics
 - SQLAlchemy ORM with Alembic migrations
 
 </details>
@@ -116,7 +118,7 @@ FastAPI • React • PostgreSQL • Groq LLM (Llama 3.1)
 
 Python • Streamlit • Oracle Fusion • APScheduler • Azure OpenAI
 
-- Real-time job monitoring for enterprise systems
+- Real-time monitoring of enterprise job execution
 - ML-based anomaly detection and predictive runtime analysis
 - Smart alerting with cooldown logic and SMTP notifications
 
@@ -148,7 +150,7 @@ Python • Apriori • Pandas • Data Visualization
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true" />
@@ -160,19 +162,19 @@ Python • Apriori • Pandas • Data Visualization
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Recognition & Achievements
 
-- Google Cloud — GenAI & Vertex AI  
-- Cisco — Networking Essentials  
-- McKinsey — Forward Program  
-- National Olympiad Winner — Mathematics & Science  
-- Best Speaker Award — Beehive Communication Club  
+🥇 National Olympiad Winner — Mathematics & Science  
+🎤 Best Speaker Award — Beehive Communication Club  
+☁️ Google Cloud — GenAI & Vertex AI  
+🌐 Cisco — Networking Essentials  
+📈 McKinsey — Forward Program  
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udiesh-kumar)
 [![Email](https://img.shields.io/badge/Email-Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udieshkumar9@gmail.com)
 
-> I build practical, scalable systems where backend engineering and AI meet real-world constraints.
+> Building practical systems where backend engineering and AI meet real-world constraints.
