@@ -126,14 +126,16 @@ Data mining project analyzing 38,765+ retail transactions.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Udiesh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Udiesh's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
