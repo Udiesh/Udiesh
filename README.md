@@ -20,7 +20,7 @@
 
 🎓 **Computer Science Engineer** with a passion for building scalable backend systems and AI-powered applications
 
-💼 Worked as a **Software Engineer Intern at Doyensys Inc**, focusing on enterprise monitoring solutions
+💼 Currently working as a **Software Engineer Intern at Doyensys Inc**, focusing on enterprise monitoring solutions
 
 🔭 I specialize in **backend development**, **LLM integration**, and **data analysis**
 
@@ -240,17 +240,17 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="48" height="48" alt="Google Cloud"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud"/><br/>
 <b>Google Cloud</b><br/>
 GenAI & Vertex AI
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/cisco-logo.png" width="48" height="48" alt="Cisco"/><br/>
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="48" height="48" alt="Cisco"/><br/>
 <b>Cisco</b><br/>
 Networking Essentials
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/business.png" width="48" height="48" alt="McKinsey"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/business.png" width="48" height="48" alt="McKinsey"/><br/>
 <b>McKinsey</b><br/>
 Forward Program
 </td>
@@ -274,32 +274,26 @@ Forward Program
 
 <div align="center">
 
-<a href="https://github.com/Udiesh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/Udiesh">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak Stats"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak Stats"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/Udiesh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udiesh&custom_title=Udiesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udiesh&custom_title=Udiesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udiesh&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udiesh&theme=tokyonight" alt="GitHub Profile Summary"/>
 
 </div>
 
