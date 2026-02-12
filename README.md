@@ -16,35 +16,27 @@
 
 ## 🚀 About Me
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Udiesh Kumar R"
-        self.role = "Software Engineer"
-        self.location = "Thanjavur, Tamil Nadu, India"
-        self.education = "B.E. Computer Science & Engineering"
-        self.cgpa = 8.48
-        
-    def current_work(self):
-        return {
-            "company": "Doyensys Inc",
-            "position": "Software Engineer Intern",
-            "focus": ["Backend Development", "AI Integration", "System Monitoring"]
-        }
-    
-    def interests(self):
-        return ["Backend Engineering", "Applied AI", "System Design", "Data Analysis"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-me = SoftwareEngineer()
-me.say_hi()
-```
+🎓 **Computer Science Engineer** with a passion for building scalable backend systems and AI-powered applications
+
+💼 Currently working as a **Software Engineer Intern at Doyensys Inc**, focusing on enterprise monitoring solutions
+
+🔭 I specialize in **backend development**, **LLM integration**, and **data analysis**
+
+🌱 Always learning and exploring new technologies in **cloud architecture** and **system design**
+
+💡 Love solving real-world problems through code and creating impactful solutions
+
+📍 Based in **Thanjavur, Tamil Nadu, India**
+
+⚡ **Fun fact:** Winner of National Olympiad in Mathematics & Science!
+
+<br clear="right"/>
 
 <div align="center">
 
-### 💡 Core Expertise
+### 💡 What I Do Best
 
 </div>
 
@@ -241,39 +233,73 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udiesh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udiesh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
 
-| 🎓 Certification | 🏅 Achievement |
-|:---:|:---:|
-| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-GenAI_&_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![Best Speaker](https://img.shields.io/badge/Best_Speaker-Beehive_Club-FFD700?style=for-the-badge&logo=googleassistant&logoColor=black) |
-| ![Cisco](https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | ![Olympiad](https://img.shields.io/badge/National_Olympiad-Math_&_Science-00A86B?style=for-the-badge&logo=moleculer&logoColor=white) |
-| ![McKinsey](https://img.shields.io/badge/McKinsey-Forward_Program-000000?style=for-the-badge&logo=google&logoColor=white) | |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="48" height="48" alt="Google Cloud"/><br/>
+<b>Google Cloud</b><br/>
+GenAI & Vertex AI
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/cisco-logo.png" width="48" height="48" alt="Cisco"/><br/>
+<b>Cisco</b><br/>
+Networking Essentials
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/business.png" width="48" height="48" alt="McKinsey"/><br/>
+<b>McKinsey</b><br/>
+Forward Program
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌟 Notable Achievements
+
+🏆 **Best Speaker Award** - Beehive Communication Club  
+🥇 **National Olympiad Winner** - Mathematics & Science  
+📚 **Academic Excellence** - CGPA: 8.48/10  
+🎯 **Higher Secondary** - 89.6% | **Secondary School** - 90.2%
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Udiesh&theme=react-dark&hide_border=true&area=true)
+<a href="https://github.com/Udiesh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Udiesh">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak Stats"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Udiesh">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udiesh&custom_title=Udiesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</a>
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udiesh&theme=tokyonight)
 
 </div>
 
