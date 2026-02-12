@@ -20,7 +20,7 @@
 
 🎓 **Computer Science Engineer** with a passion for building scalable backend systems and AI-powered applications
 
-💼 Currently working as a **Software Engineer Intern at Doyensys Inc**, focusing on enterprise monitoring solutions
+💼 Worked as a **Software Engineer Intern at Doyensys Inc**, focusing on enterprise monitoring solutions
 
 🔭 I specialize in **backend development**, **LLM integration**, and **data analysis**
 
