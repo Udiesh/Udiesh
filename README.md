@@ -36,7 +36,7 @@
 
 <div align="center">
 
-### 💡 What I Do Best
+### 💼 What I Bring to the Table
 
 </div>
 
@@ -44,20 +44,20 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 Current Focus
-- 🔧 Building enterprise monitoring systems
-- 🤖 Integrating LLMs into production apps
-- 📊 Developing data-driven solutions
-- ⚡ Optimizing backend performance
+#### 🎯 Technical Expertise
+- ⚙️ **Backend Development** - FastAPI, Flask, REST APIs
+- 🤖 **AI Integration** - LLM implementation (Groq/Llama), Azure OpenAI
+- 📊 **Data Analysis** - Pandas, SQL, Pattern Recognition
+- 🗄️ **Database Design** - PostgreSQL, SQLAlchemy, Alembic migrations
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌱 Learning & Growing
-- 🏗️ Advanced system architecture
-- ☁️ Cloud-native applications
-- 🔐 Security best practices
-- 📈 Scalable microservices
+#### 🚀 Project Highlights
+- 🔍 **60% reduction** in manual monitoring (Oracle Fusion system)
+- 🔔 Built ML-powered **anomaly detection** engines
+- 💰 Developed **AI finance tracker** with NLP parsing
+- 📈 Analyzed **38,765+ transactions** for business insights
 
 </td>
 </tr>
@@ -274,6 +274,8 @@ Forward Program
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udiesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udiesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
