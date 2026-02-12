@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Udiesh Kumar 👋
+# Hi there, I'm Udiesh Kumar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+Developer;Building+AI-Powered+Systems;Data+%2B+Code+%2B+Impact" alt="Typing SVG" />
+### Software Engineer | Backend Developer | AI Integration Specialist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Integrating+AI+%26+ML+Solutions;Creating+Data-Driven+Applications" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udiesh-kumar)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udieshkumar9@gmail.com)
@@ -14,25 +16,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```javascript
-const udiesh = {
-    location: "Tamil Nadu, India",
-    education: "B.E. Computer Science (CGPA: 8.48)",
-    currentRole: "Software Engineer Intern @ Doyensys Inc",
-    
-    focus: ["Backend Development", "AI Integration", "System Design"],
-    
-    recentWin: "Built monitoring system → 60% less manual work ⚡",
-    
-    funFact: "National Olympiad Winner 🥇 (Math & Science)"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎯 I turn complex problems into clean, scalable solutions  
-💡 Passionate about backend systems that scale and AI that actually helps  
-🚀 Always building, always learning
+🎓 **Computer Science Engineer** from University College of Engineering, Villupuram (CGPA: 8.48)
+
+💼 Currently a **Software Engineer Intern at Doyensys Inc**, where I built a monitoring system that reduced manual work by **60%** across 200+ enterprise jobs
+
+💡 I specialize in **backend development**, **LLM integration**, and **data analysis** — turning complex problems into elegant, scalable solutions
+
+🏆 **National Olympiad Winner** in Mathematics & Science
+
+🌱 Always exploring new ways to make systems smarter and more efficient
+
+<br clear="right"/>
 
 ---
 
@@ -40,132 +38,120 @@ const udiesh = {
 
 <div align="center">
 
-### Core
+### Languages & Core Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Data
+### Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-### AI & Cloud
+### AI & Data
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Processing-blue?style=for-the-badge)
 
-### Tools
+### Tools & Cloud
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### 🏢 Software Engineer Intern — Doyensys Inc
-*Nov 2025 - Jan 2026*
+### 🏢 Doyensys Inc — Software Engineer Intern
+**Nov 2025 - Jan 2026**
 
-**Built an enterprise monitoring system that actually works:**
-- 📊 Monitors 200+ Oracle Fusion jobs automatically
-- 🤖 ML-powered anomaly detection using Azure OpenAI
-- 📉 Reduced manual monitoring by **60%**
-- 🔔 Smart alerts via APScheduler + SMTP (no alert fatigue!)
+Built an enterprise monitoring and alerting system for Oracle Fusion Cloud:
 
-**Stack:** Python, Streamlit, Oracle Fusion, Azure OpenAI, APScheduler
+- 📊 Developed monitoring dashboard tracking **200+ ESS jobs** using Python Streamlit
+- 🤖 Integrated **ML-based anomaly detection** with Azure OpenAI for predictive insights
+- 🔔 Built intelligent alerting engine with threshold detection and cooldown logic
+- 📉 Achieved **60% reduction** in manual monitoring effort
+- 📧 Automated SMTP notifications for targeted alerts
 
----
-
-### 📊 Data Analysis Intern — Yofoxy
-*Jan 2025 - Jul 2025*
-
-Analyzed healthcare, survey, and market data to find patterns that matter.  
-Delivered 15+ refined datasets and actionable insights.
+**Tech:** Python • Streamlit • Oracle Fusion • APScheduler • Azure OpenAI
 
 ---
 
-## 🚀 Projects
+### 📊 Yofoxy — Data Analysis Intern
+**Jan 2025 - Jul 2025**
 
-<table>
-<tr>
-<td width="50%">
+- Analyzed datasets across healthcare studies, survey responses, and market purchase data
+- Produced 15+ refined datasets and analytical summaries
+- Identified key patterns and actionable insights
 
-### 💰 AI Finance Tracker
-**Smart expense tracking with LLMs**
+---
 
-Just type "coffee at Starbucks $5" → automatically categorized and logged.
+## 🚀 Featured Projects
 
-- Natural language parsing (Groq/Llama 3.1)
-- JWT auth + PostgreSQL backend
-- Real-time analytics dashboard
-- FastAPI + React
+### 💰 AI-Powered Personal Finance Tracker
+Full-stack finance platform with natural language transaction parsing and intelligent categorization.
 
-**Impact:** Seconds to log vs minutes of manual entry
+**Key Features:**
+- 🔐 JWT authentication with secure session management
+- 🤖 Natural language processing using Groq LLM (Llama 3.1) — just describe your expense
+- 📊 Automated category classification and spending analytics
+- 📈 Interactive dashboards showing trends and insights
 
-</td>
-<td width="50%">
+**Tech Stack:** FastAPI • React • PostgreSQL • Groq LLM • SQLAlchemy
 
-### 🔍 Enterprise Monitor
-**Production monitoring system**
+---
 
-Watches 200+ jobs, predicts issues, alerts the right people.
+### 🔍 Enterprise Monitoring & Alerting System
+Production monitoring platform that watches, learns, and alerts intelligently.
 
-- ML-based anomaly detection
-- Smart alerting (thresholds + cooldowns)
-- Runtime predictions
-- Streamlit + Python
+**What it does:**
+- 📊 Real-time monitoring of 200+ enterprise scheduled jobs
+- 🤖 ML-powered anomaly detection and runtime prediction
+- 🔔 Smart alerting with configurable thresholds and cooldowns
+- 📧 Automated notifications to the right teams
 
-**Impact:** 60% reduction in manual work
+**Impact:** 60% reduction in manual monitoring effort
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Tech Stack:** Python • Streamlit • Oracle Fusion • APScheduler • Azure OpenAI
 
-### 🤖 Restaurant Chatbot
-**Conversational AI for restaurants**
+---
 
-Handles reservations, menu questions, and more.
+### 🍽️ Restaurant Chatbot System
+Conversational AI that handles reservations, menu queries, and customer questions 24/7.
 
-- Custom NLP intent recognition
-- Multi-turn conversations
-- Voice input support
-- Flask + JavaScript
+**Features:**
+- 🧠 Custom intent recognition using weighted keywords and regex
+- 💬 Multi-turn conversation handling
+- 🎙️ Voice input support
+- 🎨 Responsive UI with theming and suggestion chips
 
-**Impact:** 24/7 customer service automation
+**Tech Stack:** Flask • NLP • JavaScript • Web UI
 
-</td>
-<td width="50%">
+---
 
 ### 📊 Market Basket Analysis
-**Data-driven product insights**
+Data mining project uncovering product purchase patterns in retail transactions.
 
-Found what customers buy together in 38K+ transactions.
+**What I did:**
+- ⛏️ Analyzed **38,765+ transactions** using Apriori algorithm
+- 🔗 Generated association rules with support, confidence, and lift metrics
+- 💡 Identified cross-selling opportunities for retail strategy
 
-- Apriori algorithm
-- Association rules mining
-- Visual insights
-- Python + Pandas
-
-**Impact:** Cross-sell recommendations for retail
-
-</td>
-</tr>
-</table>
+**Tech Stack:** Python • Apriori Algorithm • Pandas • Matplotlib
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -188,24 +174,24 @@ Found what customers buy together in 38K+ transactions.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" alt="Google Cloud"/><br/>
 <b>Google Cloud</b><br/>
 <sub>GenAI & Vertex AI</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="60" height="60"/><br/>
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="60" height="60" alt="Cisco"/><br/>
 <b>Cisco</b><br/>
 <sub>Networking Essentials</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/business.png" width="60" height="60"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/business.png" width="60" height="60" alt="McKinsey"/><br/>
 <b>McKinsey</b><br/>
 <sub>Forward Program</sub>
 </td>
@@ -214,9 +200,9 @@ Found what customers buy together in 38K+ transactions.
 
 <br/>
 
-🥇 **National Olympiad Winner** (Math & Science)  
-🎤 **Best Speaker Award** (Beehive Communication Club)  
-📚 **CGPA: 8.48/10** | Higher Secondary: 89.6% | Secondary: 90.2%
+🥇 **National Olympiad Winner** — Mathematics & Science  
+🎤 **Best Speaker Award** — Beehive Communication Club  
+📚 **Academic Excellence** — CGPA: 8.48/10 | Higher Secondary: 89.6% | Secondary: 90.2%
 
 </div>
 
@@ -226,13 +212,13 @@ Found what customers buy together in 38K+ transactions.
 
 <div align="center">
 
-💬 Open to interesting projects, collaborations, and conversations about tech!
+I'm always open to interesting conversations, collaboration opportunities, and new challenges!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udiesh-kumar)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udieshkumar9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udiesh-kumar)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udieshkumar9@gmail.com)
 
 <br/>
 
-*Building the future, one commit at a time* ✨
+*Thanks for stopping by! Let's build something amazing together* ⚡
 
 </div>
