@@ -1,172 +1,114 @@
 <div align="center">
 
-# Hi there, I'm Udiesh Kumar 👋
+# Hey, I'm Udiesh Kumar 👋
 
-### Software Engineer | Backend Developer | AI Integration Specialist
+**Software Engineer • Backend Architect • AI Integration Specialist**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Integrating+AI+%26+ML+Solutions;Creating+Data-Driven+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+Production+Systems;Integrating+AI+Solutions;Data+%2B+Backend+%2B+Scale" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udiesh-kumar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udieshkumar9@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Udiesh)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Udiesh&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Udiesh&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/udiesh-kumar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:udieshkumar9@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 The Short Version
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+I'm a Computer Science Engineer (CGPA: 8.48) currently working as a **Software Engineer Intern at Doyensys Inc**, where I built a monitoring system that cut manual work by 60% across 200+ enterprise jobs. I build backend systems that scale, integrate AI where it actually helps, and turn messy data into actionable insights.
 
-🎓 **Computer Science Engineer** from University College of Engineering, Villupuram (CGPA: 8.48)
-
-💼 Currently a **Software Engineer Intern at Doyensys Inc**, where I built a monitoring system that reduced manual work by **60%** across 200+ enterprise jobs
-
-💡 I specialize in **backend development**, **LLM integration**, and **data analysis** — turning complex problems into elegant, scalable solutions
-
-🏆 **National Olympiad Winner** in Mathematics & Science
-
-🌱 Always exploring new ways to make systems smarter and more efficient
-
-<br clear="right"/>
+**Based in:** Tamil Nadu, India  
+**Currently working on:** Enterprise monitoring systems with ML-powered anomaly detection  
+**Previous win:** National Olympiad Winner (Math & Science) 🥇
 
 ---
 
-
-## 🛠️ Tech Stacks Worked On and Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend Development
+### Backend & Database
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-5C2D91?style=for-the-badge)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![Alembic](https://img.shields.io/badge/Alembic-3776AB?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-### AI & Machine Learning
+### AI & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Cloud & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### Frontend & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Tools & Frameworks
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![APScheduler](https://img.shields.io/badge/APScheduler-3776AB?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge)
-![Llama](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
----
-
-## 💼 Professional Experience
-
-### 🏢 Doyensys Inc — Software Engineer Intern
-**Nov 2025 - Jan 2026**
-
-Built an enterprise monitoring and alerting system for Oracle Fusion Cloud:
-
-- 📊 Developed monitoring dashboard tracking **200+ ESS jobs** using Python Streamlit
-- 🤖 Integrated **ML-based anomaly detection** with Azure OpenAI for predictive insights
-- 🔔 Built intelligent alerting engine with threshold detection and cooldown logic
-- 📉 Achieved **60% reduction** in manual monitoring effort
-- 📧 Automated SMTP notifications for targeted alerts
-
-**Tech:** Python • Streamlit • Oracle Fusion • APScheduler • Azure OpenAI
 
 ---
 
-### 📊 Yofoxy — Data Analysis Intern
-**Jan 2025 - Jul 2025**
+## 💼 Work Experience
 
-- Analyzed datasets across healthcare studies, survey responses, and market purchase data
-- Produced 15+ refined datasets and analytical summaries
-- Identified key patterns and actionable insights
+### **Software Engineer Intern** — Doyensys Inc
+*Nov 2025 - Jan 2026*
 
----
+Built enterprise monitoring infrastructure that actually works in production:
+- Developed Oracle Fusion Cloud monitoring system tracking 200+ jobs
+- Integrated ML-based anomaly detection using Azure OpenAI
+- Built smart alerting engine with APScheduler (thresholds + cooldowns)
+- **Result:** 60% reduction in manual monitoring effort
 
-## 🚀 Featured Projects
-
-### 💰 AI-Powered Personal Finance Tracker
-Full-stack finance platform with natural language transaction parsing and intelligent categorization.
-
-**Key Features:**
-- 🔐 JWT authentication with secure session management
-- 🤖 Natural language processing using Groq LLM (Llama 3.1) — just describe your expense
-- 📊 Automated category classification and spending analytics
-- 📈 Interactive dashboards showing trends and insights
-
-**Tech Stack:** FastAPI • React • PostgreSQL • Groq LLM • SQLAlchemy
+**Stack:** Python, Streamlit, Oracle Fusion, Azure OpenAI, APScheduler
 
 ---
 
-### 🔍 Enterprise Monitoring & Alerting System
-Production monitoring platform that watches, learns, and alerts intelligently.
+### **Data Analysis Intern** — Yofoxy
+*Jan 2025 - Jul 2025*
 
-**What it does:**
-- 📊 Real-time monitoring of 200+ enterprise scheduled jobs
-- 🤖 ML-powered anomaly detection and runtime prediction
-- 🔔 Smart alerting with configurable thresholds and cooldowns
-- 📧 Automated notifications to the right teams
-
-**Impact:** 60% reduction in manual monitoring effort
-
-**Tech Stack:** Python • Streamlit • Oracle Fusion • APScheduler • Azure OpenAI
+Analyzed healthcare, survey, and market data to find patterns that matter.  
+Delivered 15+ refined datasets and actionable insights across multiple domains.
 
 ---
 
-### 🍽️ Restaurant Chatbot System
-Conversational AI that handles reservations, menu queries, and customer questions 24/7.
+## 🚀 What I've Built
 
-**Features:**
-- 🧠 Custom intent recognition using weighted keywords and regex
-- 💬 Multi-turn conversation handling
-- 🎙️ Voice input support
-- 🎨 Responsive UI with theming and suggestion chips
-
-**Tech Stack:** Flask • NLP • JavaScript • Web UI
+### [AI-Powered Finance Tracker](https://github.com/Udiesh)
+Full-stack finance platform with natural language transaction parsing using LLMs.
+- JWT auth, PostgreSQL backend, automated categorization
+- **Stack:** FastAPI, React, Groq LLM (Llama 3.1), SQLAlchemy
 
 ---
 
-### 📊 Market Basket Analysis
-Data mining project uncovering product purchase patterns in retail transactions.
-
-**What I did:**
-- ⛏️ Analyzed **38,765+ transactions** using Apriori algorithm
-- 🔗 Generated association rules with support, confidence, and lift metrics
-- 💡 Identified cross-selling opportunities for retail strategy
-
-**Tech Stack:** Python • Apriori Algorithm • Pandas • Matplotlib
+### [Enterprise Monitoring System](https://github.com/Udiesh)
+Production monitoring platform with ML-powered anomaly detection.
+- Tracks 200+ jobs, predicts issues, smart alerting
+- **Stack:** Python, Streamlit, Azure OpenAI, APScheduler
 
 ---
 
-## 📊 GitHub Analytics
+### [Restaurant Chatbot](https://github.com/Udiesh)
+Conversational AI handling reservations and menu queries.
+- Custom NLP intent recognition, voice input, multi-turn dialogs
+- **Stack:** Flask, NLP, JavaScript
+
+---
+
+### [Market Basket Analysis](https://github.com/Udiesh)
+Data mining project analyzing 38,765+ retail transactions.
+- Apriori algorithm, association rules, cross-sell insights
+- **Stack:** Python, Pandas, Apriori
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -177,49 +119,41 @@ Data mining project uncovering product purchase patterns in retail transactions.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udiesh&custom_title=Contribution%20Activity&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Recognition
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" alt="Google Cloud"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48"/><br/>
 <b>Google Cloud</b><br/>
 <sub>GenAI & Vertex AI</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="60" height="60" alt="Cisco"/><br/>
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="48" height="48"/><br/>
 <b>Cisco</b><br/>
 <sub>Networking Essentials</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/business.png" width="60" height="60" alt="McKinsey"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/business.png" width="48" height="48"/><br/>
 <b>McKinsey</b><br/>
 <sub>Forward Program</sub>
 </td>
 </tr>
 </table>
 
-<br/>
-
-🥇 **National Olympiad Winner** — Mathematics & Science  
-🎤 **Best Speaker Award** — Beehive Communication Club  
-📚 **Academic Excellence** — CGPA: 8.48/10 | Higher Secondary: 89.6% | Secondary: 90.2%
-
 </div>
+
+🥇 **National Olympiad Winner** (Math & Science)  
+🎤 **Best Speaker Award** (Beehive Communication Club)  
+📚 **CGPA: 8.48/10**
 
 ---
 
@@ -227,13 +161,18 @@ Data mining project uncovering product purchase patterns in retail transactions.
 
 <div align="center">
 
-I'm always open to interesting conversations, collaboration opportunities, and new challenges!
+Open to interesting projects, technical discussions, and collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udiesh-kumar)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udieshkumar9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Udiesh)
 
-<br/>
+</div>
 
-*Thanks for stopping by! Let's build something amazing together* ⚡
+---
+
+<div align="center">
+
+*Building systems that scale, one commit at a time.*
 
 </div>
