@@ -18,7 +18,7 @@
 
 From winning **National Olympiads in Mathematics & Science** to building **enterprise-grade monitoring systems** that save companies hundreds of hours, my journey has been about turning complex problems into elegant solutions. I'm a **Computer Science Engineer** (CGPA: 8.48) who's passionate about crafting backend systems that scale and integrating AI to make applications smarter.
 
-Currently, I'm working as a **Software Engineer Intern at Doyensys Inc**, where I built a monitoring platform that **reduced manual oversight by 60%** across 200+ critical jobs. I love the challenge of making systems more intelligent, more efficient, and more reliable.
+I've worked as a **Software Engineer Intern at Doyensys Inc**, where I built a monitoring platform that **reduced manual oversight by 60%** across 200+ critical jobs. I love the challenge of making systems more intelligent, more efficient, and more reliable.
 
 **What drives me?** The intersection of **backend engineering**, **artificial intelligence**, and **data-driven insights**. Whether it's building RESTful APIs, training ML models, or designing database schemas, I'm always looking for ways to create impact through code.
 
