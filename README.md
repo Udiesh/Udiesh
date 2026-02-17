@@ -123,8 +123,6 @@ Data mining project analyzing 38,765+ retail transactions.
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udiesh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
