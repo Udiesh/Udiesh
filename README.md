@@ -16,7 +16,7 @@
 
 ## 🎯 The Short Version
 
-I'm a Computer Science Engineer (CGPA: 8.48) who builds backend systems that scale, integrates AI where it actually helps, and turns messy data into actionable insights. Recently wrapped up building a monitoring system at Doyensys Inc that cut manual work by 60% across 200+ enterprise jobs.
+I'm a Computer Science Engineer who builds backend systems, integrates AI where it actually helps, and turns messy data into actionable insights. Recently wrapped up building a monitoring system at Doyensys Inc that cut manual work by 60% across 200+ enterprise jobs.
 
 **Based in:** Tamil Nadu, India  
 **Focus areas:** Backend development, AI/LLM integration, data analysis  
